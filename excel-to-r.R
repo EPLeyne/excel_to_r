@@ -1,3 +1,5 @@
+### This is a branch change
+
 # Opening a file
 
 earnings <- read.csv("Employee_Earnings_Report_2014.csv", stringsAsFactors=FALSE)
